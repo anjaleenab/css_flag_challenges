@@ -23,7 +23,7 @@ width: 200px;
 
 }
 
-/* Colombia */
+/* Columbia */
 #last-div-columbia {
 height: 50px;
 width: 300px;
@@ -39,9 +39,28 @@ background-color: yellow;
 height: 200px;
 width: 300px;
 background-color: red;
+
 }
 
 /* Ireland */
+#ireland {
+margin-top:30%;
+background-color:mediumseagreen;
+height: 200px;
+width: 200px;
+}
+#ireland-white-div {
+background-color: white;
+height: 200px;
+width:150px;
+margin-left: 149px;
+}
+#ireland-orange-div{
+background-color: rgb(255, 130, 67);  /*mango tango is color name*/
+height: 200px;
+width:150px;
+margin-left: 249px;
+}
 
 /* France */
 
