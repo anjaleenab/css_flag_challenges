@@ -1,6 +1,45 @@
+/*Body of document*/
+body {
+  height:100%;
+  width: 100%;
+  background-color:tan;
+  margin-left: 50%;
+  margin-top: 2%;
+
+}
+
 /* Indonesia */
+#indonesia {
+background-color:white;
+height: 120px;
+width: 200px;
+margin-bottom: 30px;
+}
+
+#inside-indonesia {
+background-color: red;
+height: 60px;
+width: 200px;
+
+}
 
 /* Colombia */
+#last-div-columbia {
+height: 50px;
+width: 300px;
+background-color: blue;
+}
+#middle-div-columbia {
+
+height: 100px;
+width: 300px;
+background-color: yellow;
+}
+#columbia {
+height: 200px;
+width: 300px;
+background-color: red;
+}
 
 /* Ireland */
 
