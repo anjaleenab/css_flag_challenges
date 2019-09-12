@@ -47,22 +47,46 @@ background-color: red;
 margin-top:30%;
 background-color:mediumseagreen;
 height: 200px;
-width: 200px;
+width: 400px;
+display: flex;
 }
 #ireland-white-div {
 background-color: white;
 height: 200px;
-width:150px;
-margin-left: 149px;
+width:100%;
+margin-left: 130px;
 }
 #ireland-orange-div{
 background-color: rgb(255, 130, 67);  /*mango tango is color name*/
 height: 200px;
-width:150px;
-margin-left: 249px;
+width:100%;
 }
 
 /* France */
+#france {
+  margin-top: 30%;
+  display: inline-block;
+  font-size: 0;
+  height: 200px;
+  width: 200px;
+  background-color:darkblue;
+
+}
+#france-middle-div{
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  background-color: white;
+  margin-left: 105px;
+
+}
+#red-france {
+  display: inline-block;
+  height: 200px;
+  width: 102px;
+  background-color: red;
+  margin-left:110px;
+}
 
 /* Benin */
 
