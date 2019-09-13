@@ -89,6 +89,28 @@ width:100%;
 }
 
 /* Benin */
+#benin {
+  margin-top: 30%;
+  background-color: mediumseagreen;
+  height: 200px;
+  width: 200px;
+}
+
+#benin-2nd-container {
+  background-color: yellow;
+  height: 200px;
+  width: 200px;
+  margin-left: 200px;
+}
+
+#benin-div {
+background-color: #E8112D;
+height: 100px;
+width:200px;
+margin-right: 300px;
+floa
+
+}
 
 /* Sweden */
 
