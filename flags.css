@@ -163,7 +163,7 @@ position: absolute;
 #switzerland-2 {
   position: absolute;
   background-color: white;
-  height: 140px;
+  height: 150px;
   width: 40px;
   left: 105px;
   bottom: 5px;
@@ -204,7 +204,24 @@ width: 200px;
 
 }
 /* Japan */
+#japan {
+  margin-top: 3%;
+  background-color: white;
+  height: 250px;
+  width: 400px;
+  display: flex;
+  justify-content: center;
+}
 
+#japan-circle-div {
+position: absolute;
+background-color: red;
+height: 150px;
+width: 150px;
+border-radius:50%;
+margin-top:45px;
+
+}
 /* Canada */
 
 /* Norway */
