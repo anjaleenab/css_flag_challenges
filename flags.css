@@ -108,14 +108,40 @@ width:100%;
 background-color: yellow;
 height: 100px;
 width:200px;
-margin-right: 300px;
-
-
 }
 
 /* Sweden */
+#sweden {
+position: relative;
+margin-top: 30%;
+background-color: steelblue;
+height: 200px;
+width: 350px;
+}
+
+#sweden-container-1 {
+width:350px;
+height: 45px;
+background-color: yellow;
+position: absolute;
+top: 85px;
+}
+
+#sweden-container-2 {
+left: 90px;
+width:45px;
+height: 200px;
+background-color: yellow;
+position: absolute;
+}
 
 /* Switzerland */
+#switzerland {
+margin-top: 30%;
+background-color: red;
+width: 250px;
+height: 250px;
+}
 
 /* Tonga */
 
