@@ -55,6 +55,7 @@ background-color: white;
 height: 200px;
 width:100%;
 margin-left: 130px;
+
 }
 #ireland-orange-div{
 background-color: rgb(255, 130, 67);  /*mango tango is color name*/
@@ -78,6 +79,7 @@ width:100%;
   width: 200px;
   background-color: white;
   margin-left: 105px;
+
 
 }
 #red-france {
@@ -223,7 +225,34 @@ margin-top:45px;
 
 }
 /* Canada */
+#canada{
+  margin-top: 3%;
+  background-color: red;
+  height: 250px;
+  width: 500px;
+  position:relative;
+}
 
+#canada-white-div {
+left:130px;
+background-color: white;
+height: 250px;
+width: 250px;
+position: relative;
+
+}
+#the-leaf {
+right:45px;
+top: 35px;
+height: 70%;
+width:70%;
+position: absolute;
+background-image: url("assets/images/canada_logo.png");
+background-size: contain;
+background-repeat: no-repeat;
+transform: rotateZ(28deg);
+
+}
 /* Norway */
 
 /* Greece */
