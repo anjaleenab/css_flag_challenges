@@ -254,6 +254,45 @@ transform: rotateZ(28deg);
 
 }
 /* Norway */
+#norway {
+  margin-top: 3%;
+  background-color: red;
+  height: 200px;
+  width: 400px;
+  position: relative
+}
+
+#norway-container-1 {
+  top: 75px;
+  background-color: white;
+  height: 50px;
+  width: 400px;
+  position: absolute;
+}
+
+#norway-container-2 {
+  background-color: white;
+  height:200px;
+  width: 50px;
+  position: absolute;
+  left: 85px;
+}
+
+#sub-container1 {
+  background-color: midnightblue;
+  height: 18px;
+  width: 400px;
+  position: absolute;
+  bottom: 90px;
+}
+
+#sub-container2 {
+  background-color: midnightblue;
+  height: 200px;
+  width: 20px;
+  position: absolute;
+  left: 14px;
+}
 
 /* Greece */
 
