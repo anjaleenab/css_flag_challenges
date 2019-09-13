@@ -141,8 +141,33 @@ margin-top: 30%;
 background-color: red;
 width: 250px;
 height: 250px;
+position: relative;
 }
 
+#switzerland-container {
+top:105px;
+background-color: red;
+width: 100px;
+height: 100px;
+position: absolute;
+}
+
+#switzerland-1 {
+  left: 50px;
+  position: absolute;
+  background-color: white;
+  height: 40px;
+  width: 150px;
+}
+
+#switzerland-2 {
+  position: absolute;
+  background-color: white;
+  height: 140px;
+  width: 40px;
+  left: 105px;
+  bottom: 5px;
+}
 /* Tonga */
 
 /* Japan */
