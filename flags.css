@@ -295,6 +295,73 @@ transform: rotateZ(28deg);
 }
 
 /* Greece */
+#greece {
+  margin: 3%;
+  background-color: royalblue;
+  height: 200px;
+  width: 380px;
+  position: relative;
+}
+
+#greece-cross-div {
+  background-color: royalblue;
+  height:120px;
+  width: 120px;
+  position: absolute;
+  bottom: 80px;
+}
+
+#cross1{
+  background-color: white;
+  width: 120px;
+  height: 25px;
+  position: absolute;
+  bottom: 46px;
+}
+
+#cross2 {
+  background-color: white;
+  width: 25px;
+  height: 120px;
+  position: absolute;
+  left: 50px;
+}
+
+#greece-line-div-1 {
+background-color: white;
+height: 20px;
+width: 380px;
+bottom: 152px;
+position:absolute;
+}
+
+#greece-line-div-2 {
+background-color: white;
+height: 20px;
+width: 380px;
+bottom: 106px;
+position:absolute;
+}
+
+#greece-line-div-3 {
+background-color: white;
+height: 20px;
+width: 380px;
+bottom: 60px;
+position:absolute;
+}
+
+#greece-line-div-4 {
+background-color: white;
+height: 20px;
+width: 380px;
+bottom: 20px;
+position:absolute;
+}
+
+
+
+
 
 /* Somalia */
 
