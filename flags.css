@@ -359,11 +359,21 @@ bottom: 20px;
 position:absolute;
 }
 
-
-
-
-
 /* Somalia */
+#somalia {
+  margin-top: 3%;
+  background-color: royalblue;
+  height: 200px;
+  width: 400px;
+  justify-content: center;
+  align-items: center;
+}
+
+#star {
+  font-size: 130px;
+  color: white;
+  text-align: center;
+}
 
 /* Chile */
 
