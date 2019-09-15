@@ -408,6 +408,33 @@ position:absolute;
 }
 
 /* Turkey */
+#turkey {
+  background-color: red;
+  height: 200px;
+  width: 400px;
+  margin-top:3%;
+  position: relative;
+}
+
+#turkey-first-circle {
+  background-color: white;
+  height:100px;
+  width: 100px;
+  border-radius: 50%;
+  position:absolute;
+  left: 50px;
+  top: 50px;
+}
+
+#turkey-second-circle {
+  background-color: red;
+  height:90px;
+  width: 100px;
+  border-radius: 50%;
+  position:absolute;
+  left: 30px;
+  top: 20px;
+}
 
 /* China */
 
