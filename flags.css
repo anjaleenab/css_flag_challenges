@@ -446,6 +446,21 @@ position:absolute;
 }
 
 /* China */
+#china {
+  margin-top: 3%;
+  background-color: #F62217;
+  height: 200px;
+  width: 400px;
+}
+
+[id^="china-star"] {
+ color: goldenrod;
+ position: absolute;
+}
+
+
+
+
 
 /* Cuba */
 
