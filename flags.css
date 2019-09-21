@@ -428,12 +428,21 @@ position:absolute;
 
 #turkey-second-circle {
   background-color: red;
-  height:90px;
-  width: 100px;
+  height:79px;
+  width: 79px;
   border-radius: 50%;
   position:absolute;
-  left: 30px;
-  top: 20px;
+  left: 23px;
+  top: 9px;
+}
+
+#turkey-star{
+  font-size: 70px;
+  position: absolute;
+  color: white;
+  left:100px;
+  bottom: 10px;
+  transform: rotateZ(55deg);
 }
 
 /* China */
