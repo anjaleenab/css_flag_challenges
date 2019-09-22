@@ -451,13 +451,42 @@ position:absolute;
   background-color: #F62217;
   height: 200px;
   width: 400px;
+  position:relative;
 }
 
 [id^="china-star"] {
- color: goldenrod;
+ color: yellow;
  position: absolute;
 }
 
+#china-star1 {
+  font-size: 90px;
+  left: 30px;
+}
+
+#china-star2 {
+  left: 107px;
+  font-size: 30px;
+  transform: rotateZ(25deg);
+}
+
+#china-star3 {
+  left: 130px;
+  font-size: 30px;
+  top: 30px;
+  transform: rotateZ(45deg);
+}
+#china-star4 {
+  left: 135px;
+  font-size: 30px;
+  top: 70px;
+}
+#china-star5 {
+  left: 115px;
+  font-size: 30px;
+  top: 100px;
+  transform: rotateZ(15deg);
+}
 
 
 
