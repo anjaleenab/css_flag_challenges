@@ -488,11 +488,39 @@ position:absolute;
   transform: rotateZ(15deg);
 }
 
-
-
-
 /* Cuba */
+#cuba {
+  height: 200px;
+  width: 400px;
+  background-color:midnightblue;
+  margin-top:3%;
+  position: relative;
+}
 
+#white-div-1{
+  width:400px;
+  height:40px;
+  background-color:white;
+  position: absolute;
+  top: 40px;
+
+}
+
+#white-div-2{
+  width:400px;
+  height:40px;
+  background-color:white;
+  position: absolute;
+  top: 120px;
+
+}
+
+#cuba-red-div{
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  background-color: red;
+}
 /* Western Sahara */
 
 /* Kuwait */
